@@ -1,7 +1,7 @@
 package ftelematics.myapplication.repositories;
 
 import android.app.Application;
-import android.util.Log;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,6 +12,7 @@ import ftelematics.myapplication.models.MovieModel;
 import ftelematics.myapplication.utils.APIService;
 import ftelematics.myapplication.utils.AppExecutors;
 import ftelematics.myapplication.utils.Constants;
+import ftelematics.myapplication.utils.Log;
 import ftelematics.myapplication.utils.RetrofitClient;
 import ftelematics.myapplication.utils.db.MovieDataBase;
 import ftelematics.myapplication.utils.db.TaskLocalDataSource;

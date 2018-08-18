@@ -10,7 +10,7 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
+import ftelematics.myapplication.utils.Log;
 
 import ftelematics.myapplication.R;
 
