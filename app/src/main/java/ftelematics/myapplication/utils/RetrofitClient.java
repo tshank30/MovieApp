@@ -4,6 +4,8 @@ package ftelematics.myapplication.utils;
  * Created by shashanktiwari on 20/02/18.
  */
 
+import android.util.Log;
+
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
